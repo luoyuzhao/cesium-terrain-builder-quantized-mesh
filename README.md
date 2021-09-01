@@ -1,3 +1,7 @@
+#修复黑屏BUG
+
+#加参数-C 防止半球黑屏
+
 # Cesium Terrain Builder
 
 This is a C++ library and associated command line tools designed to create
